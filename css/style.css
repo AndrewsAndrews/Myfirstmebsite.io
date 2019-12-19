@@ -1,0 +1,37 @@
+
+.gg{
+  height: 600px;
+  width: 600px;
+}
+  .img1 {
+    max-width: 570px;
+    max-height: 570px;
+}
+h1 {
+  color:#9E1A1A;
+  font-size:50px;
+}
+.tol{
+  color:#964000;
+}
+    .ban{
+  color:blue
+}
+body{
+  background-image: url('img/boy.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+  a:link{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+  }
+  a:visited{
+    color: purple;
+    font-family: 'Abril Fatface', cursive;
+  }
+  a:hover{
+    color: red;
+  }
